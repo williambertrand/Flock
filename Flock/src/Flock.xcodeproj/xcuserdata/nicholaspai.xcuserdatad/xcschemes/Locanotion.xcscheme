@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3DF965B81AC5BF430011ABC2"
-            BuildableName = "Locanotion.app"
-            BlueprintName = "Locanotion"
-            ReferencedContainer = "container:Locanotion.xcodeproj">
+            BuildableName = "Flock.app"
+            BlueprintName = "Flock"
+            ReferencedContainer = "container:Flock.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3DF965B81AC5BF430011ABC2"
-            BuildableName = "Locanotion.app"
-            BlueprintName = "Locanotion"
-            ReferencedContainer = "container:Locanotion.xcodeproj">
+            BuildableName = "Flock.app"
+            BlueprintName = "Flock"
+            ReferencedContainer = "container:Flock.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
